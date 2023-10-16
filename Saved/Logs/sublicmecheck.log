@@ -3151,3 +3151,72 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2023.10.16-15.26.16:349][766]SourceControl: Commited [master (root-commit) d383926] created.
 [2023.10.16-15.26.31:326][529]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
 [2023.10.16-15.26.31:326][529]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.10.16-15.31.31:663][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.10.16-15.31.31:664][174]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.016
+[2023.10.16-15.31.47:380][222]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2023.10.16-15.31.47:380][222]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2023.10.16-15.32.06:970][319]SourceControl: fatal: E:/UE_5.3/Engine/Content: 'E:/UE_5.3/Engine/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:970][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'E:/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:970][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'E:/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:970][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'E:/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:970][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/2D/Paper2D/Content: 'E:/UE_5.3/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:970][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Editor/UVEditor/Content: 'E:/UE_5.3/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:970][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'E:/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content: 'E:/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'E:/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content: 'E:/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content: 'E:/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content: 'E:/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Runtime/RigVM/Content: 'E:/UE_5.3/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'E:/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Runtime/Metasound/Content: 'E:/UE_5.3/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content: 'E:/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'E:/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content: 'E:/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content: 'E:/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Interchange/Runtime/Content: 'E:/UE_5.3/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Animation/IKRig/Content: 'E:/UE_5.3/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content: 'E:/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Animation/ControlRig/Content: 'E:/UE_5.3/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content: 'E:/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content: 'E:/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'E:/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'E:/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content: 'E:/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'E:/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content: 'E:/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content: 'E:/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content: 'E:/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'E:/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content: 'E:/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'E:/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content: 'E:/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content: 'E:/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content: 'E:/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Media/MediaPlate/Content: 'E:/UE_5.3/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content: 'E:/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content: 'E:/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content: 'E:/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/FX/Niagara/Content: 'E:/UE_5.3/Engine/Plugins/FX/Niagara/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/TraceUtilities/Content: 'E:/UE_5.3/Engine/Plugins/TraceUtilities/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.06:971][319]SourceControl: fatal: E:/UE_5.3/Engine/Plugins/Bridge/Content: 'E:/UE_5.3/Engine/Plugins/Bridge/Content' is outside repository at 'E:/UE_5.3/Projects/sublicmecheck'
+[2023.10.16-15.32.07:026][319]EditorErrors: Warning: No assets to check in!
+[2023.10.16-15.32.24:481][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.10.16-15.32.24:598][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.16-15.32.24:646][952]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/3Y/P39BX4POWAOZQG6Y97WLJJ
+[2023.10.16-15.32.24:646][952]LogSavePackage: Moving '../../../Projects/sublicmecheck/Saved/P39BX4POWAOZQG6Y97WLJJA6B84BFE4744CA202F872B96DC133F79.tmp' to '../../../Projects/sublicmecheck/Content/__ExternalActors__/NewMap/4/3Y/P39BX4POWAOZQG6Y97WLJJ.uasset'
+[2023.10.16-15.32.24:647][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actor" FILE="../../../Projects/sublicmecheck/Content/Actor.uasset" SILENT=true
+[2023.10.16-15.32.24:650][952]LogSavePackage: Moving output files for package: /Game/Actor
+[2023.10.16-15.32.24:650][952]LogSavePackage: Moving '../../../Projects/sublicmecheck/Saved/ActorCD41D64D41B9E8BB6687728C1D048F7A.tmp' to '../../../Projects/sublicmecheck/Content/Actor.uasset'
+[2023.10.16-15.32.24:652][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/light" FILE="../../../Projects/sublicmecheck/Content/light.uasset" SILENT=true
+[2023.10.16-15.32.24:654][952]LogSavePackage: Moving output files for package: /Game/light
+[2023.10.16-15.32.24:654][952]LogSavePackage: Moving '../../../Projects/sublicmecheck/Saved/light0652DD2D4CEBBF11E0CB4595201C813C.tmp' to '../../../Projects/sublicmecheck/Content/light.uasset'
+[2023.10.16-15.32.24:657][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/da" FILE="../../../Projects/sublicmecheck/Content/da.uasset" SILENT=true
+[2023.10.16-15.32.24:659][952]LogSavePackage: Moving output files for package: /Game/da
+[2023.10.16-15.32.24:659][952]LogSavePackage: Moving '../../../Projects/sublicmecheck/Saved/da866762EF43B74EC99F0E8E86A086D5DD.tmp' to '../../../Projects/sublicmecheck/Content/da.uasset'
+[2023.10.16-15.32.24:791][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 861 ms)
+[2023.10.16-15.32.24:793][952]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.16-15.32.24:793][952]LogContentValidation: Display: Validating /Game/da.da_C /Game/NewMap.NewMap:PersistentLevel.da_C_UAID_FC3497A6C0E542B301_1785940801
+[2023.10.16-15.32.24:793][952]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actor.Actor
+[2023.10.16-15.32.24:793][952]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/light.light
+[2023.10.16-15.32.24:793][952]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/da.da
